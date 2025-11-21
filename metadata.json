@@ -1,0 +1,5 @@
+{
+  "name": "Rename & Zip - Batch Image Renamer",
+  "description": "A utility to batch rename images based on a custom title and download them as a ZIP archive.",
+  "requestFramePermissions": []
+}
